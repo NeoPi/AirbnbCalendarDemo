@@ -160,7 +160,7 @@ public class SimpleMonthView extends ViewGroup {
    *
    * @param lastView
    * @param clickView
-   * 
+   *
    */
   private void invalidateRang(Cell lastView, Cell clickView) {
 
