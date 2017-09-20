@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="Cell" >
+    <attr name="text_color" format="color"></attr>
+    <attr name="desc_text_color" format="color"></attr>
+    <attr name="select_text_color" format="color"></attr>
+    <attr name="bg_color" format="color"></attr>
+    <attr name="bg_select_color" format="color"></attr>
+  </declare-styleable>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <color name="default_text_color">#2b2b2b</color>
+  <color name="bg_color">#ed6631</color>
+  <color name="bg_select_color">#4eda5e</color>
+  <color name="white">#ffffff</color>
+
+</resources>
